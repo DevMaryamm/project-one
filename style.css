@@ -1,0 +1,9 @@
+body {
+    background-color: hsl(30,38%,92%);
+width: 100vw;
+height: 100vh;
+}
+main{
+    display:flex;
+    margin: 5rem 10rem;
+}
